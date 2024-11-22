@@ -64,7 +64,7 @@ This repository reflects my attempts to blend devotion with my love for creation
 
 ### 🌺 **Who Are Radha-Krishna?**
 - **Shri Krishna**: The supreme form of God, the embodiment of joy, love, and divine play (लीला).
-- **Shri Radha**: The queen of Braj, the essence of devotion, and the one who holds Krishna’s heart.
+- **Shri Radha**: The queen of Braj, the essence of love, the ladini sakti of krishna, and the one who is supreme form of god krishna prays to.
 
 ### 🛕 **Braj and Nikunja**
 Braj, the sacred land of Krishna’s childhood, is dotted with Nikunjas—hidden groves where Radha-Krishna share their divine love. This gallery strives to be a virtual Nikunja, inviting you into their playful and intimate world.

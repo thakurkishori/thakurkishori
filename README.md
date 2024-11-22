@@ -71,7 +71,7 @@ Braj, the sacred land of Krishna’s childhood, is dotted with Nikunjas—hidden
 ---
 
 ## 🌟 **How You Can Join This Journey**
-- 🌿 Explore the gallery (coming soon at [nikunja.gallery](https://nikunja.gallery)).  
+- 🌿 Explore the gallery (coming soon at [nikunja.gallery](https://rkphotos.pages.dev)).  
 - 🌸 Meditate on Radha-Krishna through art.  
 - 🙏 Share this project to inspire others on the path of bhakti.
 

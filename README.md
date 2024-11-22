@@ -43,9 +43,8 @@ The gallery includes:
 
 This repository is just the beginning. Here are some upcoming projects inspired by the same devotion:  
 
-1. **🎶 Bhakti Vibes App**: A personalized streaming platform for Radha-Krishna bhajans and kirtans, blending music with meditative visuals.  
-2. **📖 Digital Leela Journal**: A journaling app where users can write about their spiritual experiences while reading or meditating on Radha-Krishna’s pastimes.  
-3. **🌸 Sakhi’s Diary**: A collection of devotional poetry and stories, written from the perspective of a Gopi or Sakhi.  
+ **📖 Digital Leela Journal**: A journaling app where users can write about their spiritual experiences while reading or meditating on Radha-Krishna’s pastimes, and without any traditional barrier, be it a sensual feeling, a outof place weird thought, and so on. Because the simpliest form of bhakti is to keep radha-krishna in your heart, be it in your most holy time and in your darkest times. Everything is pure, until you have done it for the divine, anything even donation of a 1000 cows is nothing if donething without them in your heart.   
+
 
 ---
 
